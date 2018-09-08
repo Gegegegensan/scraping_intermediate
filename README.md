@@ -8,8 +8,9 @@ This is the repository that has data scraping, extraction, conversion, organizin
 
 # Usage 
 
-**[count_elements.py]**(https://github.com/Gegegegensan/scraping_intermediate/blob/master/count_elements.py)
+**[count_elements.py](https://github.com/Gegegegensan/scraping_intermediate/blob/master/count_elements.py)**
 
+1. You could use this when you have lots of xlsx files with multiple tabs and want to extract a certain sheet's information consolidated as count.
 
 
 
