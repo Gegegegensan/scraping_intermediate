@@ -18,7 +18,7 @@ You could use this when you have lots of xlsx files with multiple tabs and want 
 
 # Author
 
-[Gegegegensan](https://gegegegensan.com/ja/blog/)
+[Gegegegensan](https://gegegegensan.com)
 
 # Licence
 This software is released under the MIT License, see LICENSE.
