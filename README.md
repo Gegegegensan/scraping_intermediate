@@ -21,4 +21,4 @@ You could use this when you have lots of xlsx files with multiple tabs and want 
 [Gegegegensan](https://gegegegensan.com)
 
 # Licence
-This software is released under the MIT License, see LICENSE.
+This software is released under the MIT License.
